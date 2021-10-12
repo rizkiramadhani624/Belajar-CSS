@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Belajar CSS</title>
+<style>
+.tanpa-padding {
+   border: 2px solid red;
+}
+.dengan-padding {
+   border: 2px solid red;
+   padding: 10px;
+}
+</style>
+</head>
+<body>
+<p class="tanpa-padding">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mi
+   tortor, imperdiet sed hendrerit non, consequat luctus magna. Nullam
+   accumsan odioac lectus mollis finibus. Maecenas imperdiet feugiat
+felis, sit amet ullamcorper elit vulputate in.
+</p>
+<p class="dengan-padding">
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mi
+   tortor, imperdiet sed hendrerit non, consequat luctus magna. Nullam
+   accumsan odioac lectus mollis finibus. Maecenas imperdiet feugiat
+   felis, sit amet ullamcorper elit vulputate in.
+</p>
+</body>
+</html>
