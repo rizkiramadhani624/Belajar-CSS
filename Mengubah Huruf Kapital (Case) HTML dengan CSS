@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar text-transform dan font-variant</title>
+<style type="text/css">
+   .upper { text-transform: uppercase; } <!-- huruf besar semua -->
+   .lower { text-transform: lowercase; } <!-- huruf kecil semua -->
+   .cap   { text-transform: capitalize; } <!-- huruf depan besar semua -->
+   .small { font-variant:   small-caps; } <!-- huruf besar semua tapi bentuk small -->
+</style>
+</head>
+ 
+<body>
+   <h2>Belajar CSS: text-transform dan font-variant</h2>
+   <p class="upper">KALIMAT dengan text-transform: UPPERCASE</p>
+   <p class="lower">KALIMAT dengan text-transform: lowercase</p>
+   <p class="cap">KALIMAT dengan text-transform: Capitalize</p>
+   <p class="small">Kalimat dengan font-variant: small-caps</p>
+</body>
+</html>
