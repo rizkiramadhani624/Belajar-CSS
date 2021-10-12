@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar Tinggi Baris Paragraf CSS</title>
+<style type="text/css">
+   .contoh1 { font-size:16px; }
+   .contoh2 { font-size:16px; line-height: 20px;}
+   .contoh3 { font-size:16px; line-height: 1.5em;}
+   .contoh4 { font-size:16px; line-height: 2;}
+</style>
+</head>
+<body>
+   <h2>Belajar Tinggi Baris CSS: line-height</h2>
+   
+   <h3>Font-size: 16px, tanpa line-height (nilai line-height: 1.2)</h3>
+   <p class="contoh1">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+   
+   <h3>Font-size: 16px, line-height: 20px</h3>
+   <p class="contoh2">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+   
+   <h3>Font-size: 16px, line-height: 1.5em</h3>
+   <p class="contoh3">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+   
+   <h3>Font-size: 16px, line-height: 2</h3>
+   <p class="contoh4">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+</body>
+</html>
