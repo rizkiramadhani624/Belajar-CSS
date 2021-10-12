@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Belajar CSS</title>
+<style>
+   .gambar1 { width: 100px; height: 100px;}
+   .gambar2 { width: 200px;}
+   .gambar3 { height: 300px;}
+</style>
+</head>
+<body>
+  <img src="autumn_lake.jpg" />
+  <img class="gambar1" src="autumn_lake.jpg" />
+  <img class="gambar2" src="autumn_lake.jpg" />
+  <img class="gambar3" src="autumn_lake.jpg" />
+</body>
+</html>
