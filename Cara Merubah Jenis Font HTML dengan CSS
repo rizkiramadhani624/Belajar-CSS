@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Belajar CSS di Duniailkom</title>
+  
+<style type="text/css">
+body { font-family: Calibri, Helvetica, Arial, sans-serif; }
+h3 { font-family: Cambria,"Times New Roman",serif; }
+#paragraf2 { font-family: Georgia, serif; }
+</style>
+  
+</head>
+  
+<body>
+<h3>Belajar CSS: font-family</h3>
+<p>
+<strong>HTML dan CSS</strong>
+merupakan bagian tak terpisahkan dari website modern saat ini.
+HTML digunakan untuk membuat konten atau kerangka logis dari 
+halaman web,
+sedangkan CSS digunakan untuk mengatur tampilan dari website,
+seperti warna dan font yang digunakan.
+<p>
+<p id="paragraf2">
+CSS biasanya selalu dikaitkan dengan HTML,
+karena keduanya memang saling melengkapi. 
+HTML ditujukan untuk membuat struktur,
+atau konten dari halaman web.
+Sedangkan CSS digunakan untuk tampilan dari halaman web tersebut.
+Istilahnya, <em>HTML for content, CSS for Presentation</em>.
+</p>
+</body>
+</html>
