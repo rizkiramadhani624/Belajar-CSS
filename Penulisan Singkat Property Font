@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar Penulisan Singkat Font CSS</title>
+<style type="text/css">
+   .contoh1 { font: italic bold small-caps 16px/80% serif;}
+   .contoh2 { font: italic 16px/120% Arial, Helvetica, sans-serif;}
+   .contoh3 { font: 16px/1.2em Georgia, Times, serif;}
+   .contoh4 { font: small-caps 18px/24px "Comic Sans MS", serif;}
+</style>
+</head>
+<body>
+   <h2>Belajar Penulisan Singkat Font CSS</h2>
+   
+   <h3>font: italic bold small-caps 16px/80% serif;</h3>
+   <p class="contoh1">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+   
+   <h3>font: italic 16px/120% Arial, Helvetica, sans-serif;</h3>
+   <p class="contoh2">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+   
+   <h3>font: 16px/1.2em Georgia, Times, serif</h3>
+   <p class="contoh3">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+   
+   <h3>font: small-caps 18px/24px "Comic Sans MS", serif;</h3>
+   <p class="contoh4">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies
+   eget,fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet. Eam facilis omittantur at, usu efficiantur
+   neglegentur delicatissimi et, in per vero splendide
+   persequeris.<p>
+</body>
+</html>
