@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Belajar Property Color CSS</title>
+<style type="text/css">
+   .pertama {
+   color: green;
+   }
+   .kedua {
+   color: #335599;
+   }
+   .ketiga {
+   color: rgb(200,200,0);
+   }
+</style>
+</head>
+<body>
+   <h2>Belajar Property Color CSS:</h2>
+   
+   <h3>color: green</h3>
+   <p class="pertama">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+   Nulla erat dolor, ullamcorper in ultricies eget,
+   fermentum rhoncus leo. Curabitur eu mi vitae metus
+   posuere laoreet.</p>
+   
+   <h3>color: #335599</h3>
+   <p class="kedua">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies eget,
+   fermentum rhoncus leo. Curabitur eu mi vitae
+   metus posuere laoreet.</p>
+   
+   <h3>color: rgb(200,200,0)</h3>
+   <p class="ketiga">Lorem ipsum dolor sit amet, consectetur
+   adipiscing elit. Nulla erat dolor, ullamcorper in ultricies eget,
+   fermentum rhoncus leo. Curabitur eu mi vitae
+   metus posuere laoreet.</p>
+</body>
+</html>
