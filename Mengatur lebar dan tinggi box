@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Belajar CSS</title>
+<style>
+   div {
+     border: 2px solid black;
+     margin: 20px;
+     background-color: yellow;
+   }
+   .kotak1 { width: 10px; height: 10px;}
+   .kotak2 { width: 100px; height: 30px;}
+   .kotak3 { width: 50px; height: 100px;}
+   .kotak4 { width: 500px; height: 150px;}
+</style>
+</head>
+<body>
+<div class="kotak1"></div>
+<div class="kotak2"></div>
+<div class="kotak3"></div>
+<div class="kotak4"></div>
+</body>
+</html>
