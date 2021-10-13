@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Belajar CSS</title>
+<style>
+   div {
+     width: 200px;
+     height: 50px;
+     border: 4px solid green;
+     margin: 10px;
+   }
+   .satu {border-radius: 10px;}
+   .dua {border-radius: 20px;}
+   .tiga {border-radius: 30px;}
+   .empat {border-radius: 40px;}
+</style>
+</head>
+<body>
+  <div class="satu"></div>
+  <div class="dua"></div>
+  <div class="tiga"></div>
+  <div class="empat"></div>
+</body>
+</html>
